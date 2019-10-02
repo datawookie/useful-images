@@ -214,7 +214,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5832777px;line-height:1.25;font-family:font;-inkscape-font-specification:font;letter-spacing:-0.32014421px;word-spacing:-0.23283212px;fill:#edeeee;fill-opacity:1;stroke:none;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5832777px;line-height:1.25;font-family:font;-inkscape-font-specification:font;letter-spacing:-0.32014421px;word-spacing:-0.23283212px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;"
        x="175.59761"
        y="144.35822"
        id="text10037-2-1-3-7-9-9-2-3"><tspan
@@ -222,7 +222,7 @@
          id="tspan10035-7-06-6-5-2-3-8-1"
          x="175.59761"
          y="144.35822"
-         style="font-size:10.58333302px;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;fill:#edeeee;fill-opacity:1;">Unsupervised Learning</tspan></text>
+         style="font-size:10.58333302px;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">Unsupervised Learning</tspan></text>
     <path
        style="fill:#343a40;fill-opacity:1;fill-rule:evenodd;stroke:#343a40;stroke-width:1.12300003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-0-44)"
        d="M 164.57498,285.91828 H 299.82971"
@@ -237,7 +237,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5832777px;line-height:1.25;font-family:font;-inkscape-font-specification:font;letter-spacing:-0.32014421px;word-spacing:-0.23283212px;fill:#edeeee;fill-opacity:1;stroke:none;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5832777px;line-height:1.25;font-family:font;-inkscape-font-specification:font;letter-spacing:-0.32014421px;word-spacing:-0.23283212px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;"
        x="26.656336"
        y="144.35822"
        id="text10037-2-1-3-7-9-9-2-3-5"><tspan
@@ -245,7 +245,7 @@
          id="tspan10035-7-06-6-5-2-3-8-1-5"
          x="26.656336"
          y="144.35822"
-         style="font-size:10.58333302px;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;fill:#edeeee;fill-opacity:1;">Supervised Learning</tspan></text>
+         style="font-size:10.58333302px;stroke-width:0.99999487;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;fill-opacity:1;">Supervised Learning</tspan></text>
     <g
        id="g7282"
        transform="translate(4.2076487)">
